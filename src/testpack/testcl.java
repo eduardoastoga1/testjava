@@ -2,6 +2,7 @@ package testpack;
 
 import java.util.Scanner;
 //cambio linea test1
+//new line branch
 
 public class testcl {
 	
